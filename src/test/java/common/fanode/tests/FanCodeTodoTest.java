@@ -7,7 +7,7 @@ import org.testng.Assert;
 import org.testng.annotations.*;
 
 import com.aventstack.extentreports.ExtentTest;
-import com.elaa.fancode.report.ReportUtils;
+import com.fancode.report.ReportUtils;
 import com.google.gson.JsonArray;
 
 import common.fanode.common.TodoUtils;
