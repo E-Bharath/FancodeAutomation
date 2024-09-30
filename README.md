@@ -1,4 +1,4 @@
-# FanCodeAssignment
+# FancodeAutomation  
 API Automation Framework:
 
 This project automates the verification of user tasks using Rest Assured and TestNG. The scenario involves checking that all users from the city FanCode have completed more than 50% of their todo tasks.
