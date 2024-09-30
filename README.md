@@ -17,8 +17,8 @@ All the users of City `FanCode` should have more than half of their todos task c
   
 # Setup
 1) Clone the repository:
-2) git clone https://github.com/E-Bharath/FanCodeAssignment.git  
-3) cd FanCodeAssignment
+2) git clone https://github.com/E-Bharath/FancodeAutomation.git  
+3) cd FancodeAutomation
 
 #### Install the dependencies:
 1) `mvn clean install`
